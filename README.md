@@ -1,2 +1,2 @@
 # Responsive-Design-Mobile-First
-Es un proyecto que se adapta a los distintos dispositivos:Smartphones, Tablets  y Laptops
+Este proyecto utiliza un diseño web responsivo lo que significa que se adapta a cualquier dispositivo, ya sea un smartphone, una tableta o una computadora, independientemente de su tamaño o resolución.
