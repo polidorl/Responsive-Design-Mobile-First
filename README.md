@@ -1,4 +1,5 @@
-# Responsive-Design-Mobile-First   https://polidorl.github.io/Responsive-Design-Mobile-First/
+# Responsive-Design-Mobile-First   
+https://polidorl.github.io/Responsive-Design-Mobile-First/
 Inicialmente se trata de una landing page estática  con un header,un footer y cuatro secciones de contenido.
 Este proyecto web se analiza desde los wireframes o prototipo en figma que comparte el equipo de diseño.
 El objetivo final es que el proyecto se adapte a distintos tamaños de pantallas o resolución, ya sea un smartphone, una tableta o una computadora.
